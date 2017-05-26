@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "303697142576",
+    "firebase_url": "https://termproject-193fc.firebaseio.com",
+    "project_id": "termproject-193fc",
+    "storage_bucket": "termproject-193fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303697142576:android:8c8b72c02f1ee22c",
+        "android_client_info": {
+          "package_name": "me.amanov.termproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303697142576-59csq780g82r3cc7g11ksbhbfeh25am8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs8e6jggyB1Kdz1JnIQvpCQk_-y-s59Ig"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
